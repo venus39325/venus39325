@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-I am venus
+I am Joshua
 
-I like Mars also
